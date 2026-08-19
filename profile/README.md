@@ -6,7 +6,7 @@ AI coding agents ignore long rule documents, and they are very good at gaming a 
 runs your linters in CI, then replaces each raw rule violation with a short coaching guide the agent can
 act on — so it fixes the cause, not the number.
 
-![The same code, before and after Habit Hooks](https://raw.githubusercontent.com/habit-hooks/habit-hooks/main/write_code_like_this.png)
+![TypeScript written by an agent running Habit Hooks: small functions, named constants, no duplication](https://raw.githubusercontent.com/habit-hooks/habit-hooks/main/write_code_like_this.png)
 
 ```sh
 uv tool install habit-hooks   # pip, pipx and brew work too
